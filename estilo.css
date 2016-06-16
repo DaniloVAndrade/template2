@@ -1,0 +1,30 @@
+       .navbar.navbar-default.navbar-fixed-top {
+			background-color: #009966;			
+		}
+
+		li a {
+			color:#fff !important;
+			font-weight: bold !important;
+		}
+		li a:hover {
+			background-color: #ffff33 !important;
+			color: #096 !important;
+			 transition: opacity 0.5s !important;
+			 transition-duration: 1s !important;
+		}
+		button {
+			background-color: #ff3 !important;
+		}
+		span.icon-bar {
+			background-color: #096 !important;
+		}
+		a.navbar-brand{
+			color:#fff !important;
+			font-weight: bold !important;
+		}
+		a.navbar-brand:hover{
+			background-color: #ffff33 !important;
+			color: #096 !important;
+			transition: opacity 0.5s !important;
+			transition-duration: 1s !important;
+		}
